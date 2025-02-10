@@ -4,18 +4,15 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: BSc/BSc.md
       sections:
-      - file: some_content/text_and_code.ipynb
-    - file: exercises
+      - file: BSc/Projects.md
+    - file: MSc/MSc.md
       sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: references.md
-    - file: changelog.md
+      - file: MSc/CME.md
+        sections:
+        - file: MSc/CME/Projects.md
+      - file: MSc/SE.md
+        sections:
+        - file: MSc/SE/Projects.md
     - file: credits.md
