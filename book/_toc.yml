@@ -9,10 +9,10 @@ parts:
       - file: BSc/Projects.md
     - file: MSc/MSc.md
       sections:
-      - file: MSc/CME.md
+      - file: MSc/CME/CME.md
         sections:
         - file: MSc/CME/Projects.md
-      - file: MSc/SE.md
+      - file: MSc/Structural/SE.md
         sections:
         - file: MSc/SE/Projects.md
     - file: credits.md
