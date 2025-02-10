@@ -7,7 +7,7 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon : "figures/TB_favicon.ico"
+  favicon : "figures/Icon.ico"
   baseurl :  "https://teachbooks.io/" #Replace this with your own URL
 
 sphinx:
