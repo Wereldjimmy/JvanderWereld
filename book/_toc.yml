@@ -14,5 +14,5 @@ parts:
         - file: MSc/CME/Projects_CME.md
       - file: MSc/Structural/SE.md
         sections:
-        - file: MSc/SE/Projects_SE.md
+        - file: MSc/Structural/Projects_SE.md
     - file: credits.md
