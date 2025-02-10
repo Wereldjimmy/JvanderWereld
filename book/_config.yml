@@ -20,9 +20,9 @@ sphinx:
     html_theme_options:
       logo:
         text: Template
-        image_light: TeachBooks_logo.svg # Put your logo for the light mode here (can be the same as image_dark)
-        image_dark: TeachBooks_logo_inverted.svg # Put your logo for the dark mode here (can be the same as image_light)
-      repository_url: "https://github.com/user/repo" #add your own repo URL here
+        image_light: Photo_JvanderWereld.svg # Put your logo for the light mode here (can be the same as image_dark)
+        image_dark: Photo_JvanderWereld.svg # Put your logo for the dark mode here (can be the same as image_light)
+      repository_url: "https://github.com/Wereldjimmy/JvanderWereld" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
       use_edit_page_button: true
