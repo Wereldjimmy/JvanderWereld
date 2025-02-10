@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Jimmy van der Wereld
 
-_This is the first page the student will see when opening the url._
+_Welcome to my website. On this page you can find information about me and several links._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+I am a double master's degree student combining Structural Engineering and Construction Management and Engineering (CME) at the Technical University Delft in the Netherlands. This website shows you several projects I did during my Bachelor (BSc) and my Masters (MSc).
