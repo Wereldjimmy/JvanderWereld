@@ -1,5 +1,5 @@
 # Projects
-This page contains the projects I did during my bachelor's degree.
+This page contains the projects I did during my bachelor's degree Civil Engineering at the Technical University Delft.
 
 ## Project Analysis Zandhazenbrug
 
@@ -72,7 +72,7 @@ Sketch design of the traditional design of the Vierhavens
 The proposed solution of the report was a mix of all three designs. The final solution contained least 1500 new homes, mixed with offices and recreational areas, improved tram and bus connectivity, a car-free policy, climate adaptations such as solar panels, green roofs and aqua thermal energy, and economic and social development.
 
 ## Sustainability of a Bridge
-As part of the course Construction Materials and Sustainability (CTB1320) I analysed a bridge in Roelofarendsveen by calculating the Environmental Cost Indicator (MKI) value. This approach is used in the Netherlands to quantify the environmental impact of civil structures. First a 3D model is made in the software Tekla from which a quantity statement is gathered that contains the exact weight of materials used in the bridge. 
+As part of the course Construction Materials and Sustainability (CTB1320) I analysed a bridge in Roelofarendsveen by calculating the Environmental Cost Indicator (MKI) value. This approach is used in the Netherlands to quantify the environmental impact of civil structures. First a 3D model was made in the software Tekla from which a quantity statement was gathered that contained the exact weight of materials used in the bridge. 
 
 ```{figure} ../figures/BSc/CMS_Bridge.jpg
 ---
