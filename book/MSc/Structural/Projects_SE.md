@@ -82,7 +82,7 @@ The result of the report was the fully displaced structure, moment line of the s
 
 ```{figure} ../../figures/MSc/CIEM5000_MM_Result.jpg
 ---
-width: 500px
+width: 700px
 align: center
 ---
 Result of the Matrix Method analysis
