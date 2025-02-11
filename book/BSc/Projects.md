@@ -3,7 +3,7 @@ This page contains the projects I did during my bachelor's degree.
 
 ## Project Analysis Zandhazenbrug
 
-The first project I did at the Technical University Delft was a project analysis of the Zandhazenbrug. This is a railway bridge near Muiderberg that needed to be redesigned after the A1 highway was widened. The bridge was designed to improve traffic flow and reduce congestion.
+The first project I did at the Technical University Delft was a project analysis of the Zandhazenbrug as part of the course Introduction to Civil Engineering (CTB1120-14). This is a railway bridge near Muiderberg that needed to be redesigned after the A1 highway was widened. The bridge was designed to improve traffic flow and reduce congestion.
 
 ```{figure} ../figures/BSc/ICT_Zandhazenbrug.jpg
 ---
@@ -36,7 +36,7 @@ As a result of the railway bridge and widening of the highway traffic congestion
 This project combined stakeholder analysis, looking into novel techniques, and studying decision and contract formation.
 
 ## Vierhaven Redevelopment
-For my second project I was part of a team of ten students tasked with making a redevelopment plan for the Vierhavens area in Rotterdam. This project included several aspects of real life planning, such as stakeholder analysis, cost analysis, and the creation of 3D models using BIM software.
+For my second project I was part of a team of ten students tasked with making a redevelopment plan for the Vierhavens area in Rotterdam as part of the course Integrated Design and Management (CTB1220-14). This project included several aspects of real life planning, such as stakeholder analysis, cost analysis, and the creation of 3D models using BIM software.
 
 **Background and Problem statement**\
 Rotterdam is a rapidly growing cities with increasing demand for housing. This resulted in the need for redevelopment of the Vierhavens area, which is currently an industrial area but has potential for transformation into a mixed-use urban space. The project aimed to create a sustainable living, working, and recreational environment. On top of that, a new river crossing over the Nieuwe Maas is planned to improve connectivity.
@@ -58,6 +58,14 @@ width: 500px
 align: center
 ---
 3D model of a traditional river connection
+```
+
+```{figure} ../figures/BSc/IO_Design_Traditional.jpg
+---
+width: 500px
+align: center
+---
+Sketch design of the traditional design of the Vierhavens
 ```
 
 **Proposed solution**\
