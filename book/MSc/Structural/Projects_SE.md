@@ -31,7 +31,7 @@ The next step was to create linear objective functions that rate the performance
 
 ```{figure} ../../figures/MSc/CIEM0000_Solution_Space.jpg
 ---
-width: 500px
+width: 350px
 align: center
 ---
 Solution space
