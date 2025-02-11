@@ -21,7 +21,7 @@ sphinx:
       logo:
         text: Jimmy van der Wereld
         image_light: Photo_JvanderWereld.svg # Put your logo for the light mode here (can be the same as image_dark)
-        image_dark: Photo_JvanderWereld.svg # Put your logo for the dark mode here (can be the same as image_light)
+        image_dark: Photo_JvanderWereld.svg  # Put your logo for the dark mode here (can be the same as image_light)
       repository_url: "https://github.com/Wereldjimmy/JvanderWereld" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
