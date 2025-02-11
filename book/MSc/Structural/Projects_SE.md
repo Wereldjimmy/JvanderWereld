@@ -93,7 +93,7 @@ As a second assignment for the course Slender Structures (CIEM5000) we were task
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_Bridge.jpg
 ---
-width: 500px
+width: 400px
 align: center
 ---
 Model of bridge to be analysed
@@ -117,7 +117,7 @@ This method resulted in the modal shapes of the structure. The first six modes a
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_Modal_Shapes.jpg
 ---
-width: 500px
+width: 700px
 align: center
 ---
 First six modal shapes of the bridge
@@ -128,7 +128,7 @@ The next step was to compute the steady-state response of the structure subjecte
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_SSR.jpg
 ---
-width: 500px
+width: 350px
 align: center
 ---
 Steady-state response of the bridge deck
@@ -143,7 +143,7 @@ This results in the bending and normal stresses at each point in the pylon throu
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_TDR.jpg
 ---
-width: 500px
+width: 350px
 align: center
 ---
 Maximum stress in the pylon
