@@ -2,7 +2,7 @@
 This page contains the projects I did during my master's degree Structural Engineering at the Technical University Delft.
 
 ## Mathematical Optimization of Zandhazenbrug
-or the course Programme Base (CIEM000)) of the master Structural Engineering, I was part of a team of four students, and we were tasked to optimise a project based on mathematical models considering several stakeholders, objectives and constraints. We chose to optimise the Zandhazenbrug near Muiderberg. 
+For the course Programme Base (CIEM0000) of the master Structural Engineering, I was part of a team of four students, and we were tasked to optimise a project based on mathematical models considering several stakeholders, objectives, and constraints. We chose to optimise the Zandhazenbrug near Muiderberg. 
 
 **Stakeholder analysis**\
 Firstly, a stakeholder analysis is done to map the stakeholders in a power-interest grid and gather all the requirements. These requirements where then used to set up several criteria for the multi-criteria decision analysis.
