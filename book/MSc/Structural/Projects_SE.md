@@ -19,7 +19,7 @@ From the MCDA software the original design (Bridge without centre pillar) emerge
 **Design optimization**\
 First, the design variables are determined. The first variable is the bridge span (x1) and the second variable is the bridge width (x2). The bridge span directly influences the traffic flow capacity of the highway underneath the bridge, while the bridge width influences the train frequency. Both the variables influence the material use, which in turn influence the cost and $CO_2$ emissions. The problem statement is depicted in the figure below.
 
-```{figure} ../figures/MSc/CIEM0000_Flowchart.jpg
+```{figure} ../../figures/MSc/CIEM0000_Flowchart.jpg
 ---
 width: 500px
 align: center
@@ -29,7 +29,7 @@ Problem statement visualisation
 
 The next step was to create linear objective functions that rate the performance of a design and constraints. This resulted in a solution space which is depicted in the figure below.
 
-```{figure} ../figures/MSc/CIEM0000_Solution_Space.jpg
+```{figure} ../../figures/MSc/CIEM0000_Solution_Space.jpg
 ---
 width: 500px
 align: center
@@ -39,7 +39,7 @@ Solution space
 
 The last step of the optimization was to perform a Multi-Objective Design Optimization (MODO). The IMAP and MINMAX algorithms were used to find the optimal design that balances stakeholders needs. The result of the algorithms is shown in the figure below. 
 
-```{figure} ../figures/MSc/CIEM0000_Optimal_Solution.jpg
+```{figure} ../../figures/MSc/CIEM0000_Optimal_Solution.jpg
 ---
 width: 500px
 align: center
