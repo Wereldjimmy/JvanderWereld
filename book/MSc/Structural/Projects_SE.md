@@ -19,7 +19,7 @@ From the MCDA software the original design (Bridge without centre pillar) emerge
 **Design optimization**\
 First, the design variables are determined. The first variable is the bridge span (x1) and the second variable is the bridge width (x2). The bridge span directly influences the traffic flow capacity of the highway underneath the bridge, while the bridge width influences the train frequency. Both the variables influence the material use, which in turn influence the cost and $CO_2$ emissions. The problem statement is depicted in the figure below.
 
-```{figure} ../../figures/MSc/CIEM0000_Flowchart.jpg
+```{figure} ../../figures/MSc/CIEM0000_Flowchart.png
 ---
 width: 500px
 align: center
@@ -29,7 +29,7 @@ Problem statement visualisation
 
 The next step was to create linear objective functions that rate the performance of a design and constraints. This resulted in a solution space which is depicted in the figure below.
 
-```{figure} ../../figures/MSc/CIEM0000_Solution_Space.jpg
+```{figure} ../../figures/MSc/CIEM0000_Solution_Space.png
 ---
 width: 350px
 align: center
@@ -39,7 +39,7 @@ Solution space
 
 The last step of the optimization was to perform a Multi-Objective Design Optimization (MODO). The IMAP and MINMAX algorithms were used to find the optimal design that balances stakeholders needs. The result of the algorithms is shown in the figure below. 
 
-```{figure} ../../figures/MSc/CIEM0000_Optimal_Solution.jpg
+```{figure} ../../figures/MSc/CIEM0000_Optimal_Solution.png
 ---
 width: 500px
 align: center
@@ -57,7 +57,7 @@ The matrix method is a widely used method to determine forces, displacements, an
 **Writing code**\
 A big part of the assignment was to write the code of the matrix method in Python. We were given the beginning of a code, but our task was to finish it and include a different type of loading (a distributed sine load) to analyse the structure given below.
 
-```{figure} ../../figures/MSc/CIEM5000_MM_Structure.jpg
+```{figure} ../../figures/MSc/CIEM5000_MM_Structure.png
 ---
 width: 500px
 align: center
@@ -80,7 +80,7 @@ At last, the **Constrainer class** represents a constrainer for fixing degrees o
 **Result**\
 The result of the report was the fully displaced structure, moment line of the structures, and support reactions.
 
-```{figure} ../../figures/MSc/CIEM5000_MM_Result.jpg
+```{figure} ../../figures/MSc/CIEM5000_MM_Result.png
 ---
 width: 700px
 align: center
@@ -91,7 +91,7 @@ Result of the Matrix Method analysis
 ## Dynamic Analysis around the static equilibrium of a bridge
 As a second assignment for the course Slender Structures (CIEM5000) we were tasked to analyse the dynamic response of a bridge around the static (assumed known) equilibrium of the system due to the own weight of the structure. The model of the bridge that was analysed is depicted below.
 
-```{figure} ../../figures/MSc/CIEM5000_A2_Bridge.jpg
+```{figure} ../../figures/MSc/CIEM5000_A2_Bridge.png
 ---
 width: 400px
 align: center
@@ -115,7 +115,7 @@ The next step in the analysis was to derive the natural frequencies and the mode
 
 This method resulted in the modal shapes of the structure. The first six modes as displayed in the figure below:
 
-```{figure} ../../figures/MSc/CIEM5000_A2_Modal_Shapes.jpg
+```{figure} ../../figures/MSc/CIEM5000_A2_Modal_Shapes.png
 ---
 width: 700px
 align: center
@@ -126,7 +126,7 @@ First six modal shapes of the bridge
 **Steady-state response**\
 The next step was to compute the steady-state response of the structure subjected to both vehicle and seismic loads. This was done using the dynamic stiffness matrix method (DSM). Since the structure is subject to two different types of loads with both different frequencies, two different steady-state responses need to be analysed. Since the system is linear both of these responses can be added to get the full response of the structure. The total real part of the bending moments of the bridge deck for the steady-state response are given below.
 
-```{figure} ../../figures/MSc/CIEM5000_A2_SSR.jpg
+```{figure} ../../figures/MSc/CIEM5000_A2_SSR.png
 ---
 width: 350px
 align: center
@@ -141,7 +141,7 @@ $$\sigma = \frac{M \cdot z}{I} \quad \mathrm{and} \quad \sigma = \frac{N}{A}$$
 
 This results in the bending and normal stresses at each point in the pylon throughout time. Please note that the force is assumed to be harmonic. Taking the maximum value at each point will result in the following plot:
 
-```{figure} ../../figures/MSc/CIEM5000_A2_TDR.jpg
+```{figure} ../../figures/MSc/CIEM5000_A2_TDR.png
 ---
 width: 350px
 align: center
@@ -157,7 +157,7 @@ For the course Computational Modelling of Structures (CIEM5210-1) I was tasked t
 **Analysis Method**\
 A finite element model was made first in DIANA, which can be seen in the figure below. Two models are made, on for smeared cracking (left) and one for discrete cracking (right). The elements of the wall are quadratic plane-stress sheet elements, meaning that each wall element has eight nodes and a 2x2 integration is used. Each wall node then has two degrees of freedom, $u_x$ and $u_y$. 
 
-```{figure} ../../figures/MSc/CIEM5210-1_Models.jpg
+```{figure} ../../figures/MSc/CIEM5210-1_Models.png
 ---
 width: 500px
 align: center
@@ -182,7 +182,7 @@ The iterative scheme that is used in all three analyses is full Newton-Raphson. 
 **Numerical results**\ 
 After setting up the finite element model, the three analyses were done. First the discrete cracking model analysis was done. The figure below shows the displaced structure at three different load levels. It shows that the discrete crack slowly opens.
 
-```{figure} ../../figures/MSc/CIEM5210-1_DC_Results.jpg
+```{figure} ../../figures/MSc/CIEM5210-1_DC_Results.png
 ---
 width: 600px
 align: center
@@ -192,7 +192,7 @@ Displaced discrete cracking model at three different steps
 
 Then, the two smeared cracking model analyses were done. The figure below shows on the right the principal stresses, and on the left shows the development of the two diagonal crack bands in the masonry.
 
-```{figure} ../../figures/MSc/CIEM5210-1_SC_Results.jpg
+```{figure} ../../figures/MSc/CIEM5210-1_SC_Results.png
 ---
 width: 600px
 align: center
