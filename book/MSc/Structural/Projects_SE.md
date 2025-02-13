@@ -27,7 +27,7 @@ align: center
 ---
 Problem statement visualisation
 ```
-{numref}` below <ps>`
+{numref}`below <ps>`
 The next step was to create linear objective functions that rate the performance of a design and constraints. This resulted in a solution space which is depicted in the figure below.
 
 ```{figure} ../../figures/MSc/CIEM0000_Solution_Space.jpg
