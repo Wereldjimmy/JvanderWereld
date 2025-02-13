@@ -22,7 +22,6 @@ First, the design variables are determined. The first variable is the bridge spa
 ```{figure} ../../figures/MSc/CIEM0000_Flowchart.jpg
 ---
 width: 500px
-name: ps
 align: center
 ---
 Problem statement visualisation
