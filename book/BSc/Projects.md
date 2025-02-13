@@ -52,7 +52,7 @@ The redevelopment of the area was based on five principles:
 
 During this project we worked out several designs: sustainable design, cost-effective design, and a traditional design. I was part of the design team tasked to create a traditional design which focussed on creating a visually appealing neighbourhood with classic architecture and a traditional urban feel. For the design, I was tasked with making a 3D-visualisation of a new river crossing which included the traditional style of the area. 
 
-```{figure} ../figures/BSc/IO_River_Connection.jpg
+```{figure} ../figures/BSc/IO_River_Connection.png
 ---
 width: 500px
 align: center
@@ -60,7 +60,7 @@ align: center
 3D model of a traditional river connection
 ```
 
-```{figure} ../figures/BSc/IO_Design_Traditional.jpg
+```{figure} ../figures/BSc/IO_Design_Traditional.png
 ---
 width: 500px
 align: center
@@ -74,7 +74,7 @@ The proposed solution of the report was a mix of all three designs. The final so
 ## Sustainability of a Bridge
 As part of the course Construction Materials and Sustainability (CTB1320) I analysed a bridge in Roelofarendsveen by calculating the Environmental Cost Indicator (MKI) value. This approach is used in the Netherlands to quantify the environmental impact of civil structures. First a 3D model was made in the software Tekla from which a quantity statement was gathered that contained the exact weight of materials used in the bridge. 
 
-```{figure} ../figures/BSc/CMS_Bridge.jpg
+```{figure} ../figures/BSc/CMS_Bridge.png
 ---
 width: 500px
 align: center
@@ -84,7 +84,7 @@ align: center
 
 With this quantity statement the environmental impact indicator values are calculated for each material in the bridge and, on top of that, the environmental impact is assessed on the basis of several environmental impact categories such as abiotic depletion, global warming, and ozone layer depletion.
 
-```{figure} ../figures/BSc/CMS_Impact.jpg
+```{figure} ../figures/BSc/CMS_Impact.png
 ---
 width: 500px
 align: center
