@@ -41,7 +41,7 @@ The last step of the optimization was to perform a Multi-Objective Design Optimi
 
 ```{figure} ../../figures/MSc/CIEM0000_Optimal_Solution.png
 ---
-width: 500px
+width: 800px
 align: center
 ---
 Optimal design solution using both algorithms
@@ -59,7 +59,7 @@ A big part of the assignment was to write the code of the matrix method in Pytho
 
 ```{figure} ../../figures/MSc/CIEM5000_MM_Structure.png
 ---
-width: 500px
+width: 700px
 align: center
 ---
 Structure that is analysed using the Matrix Method
@@ -93,7 +93,7 @@ As a second assignment for the course Slender Structures (CIEM5000) we were task
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_Bridge.png
 ---
-width: 400px
+width: 600px
 align: center
 ---
 Model of bridge to be analysed
@@ -128,7 +128,7 @@ The next step was to compute the steady-state response of the structure subjecte
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_SSR.png
 ---
-width: 350px
+width: 500px
 align: center
 ---
 Steady-state response of the bridge deck
@@ -143,7 +143,7 @@ This results in the bending and normal stresses at each point in the pylon throu
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_TDR.png
 ---
-width: 350px
+width: 500px
 align: center
 ---
 Maximum stress in the pylon
