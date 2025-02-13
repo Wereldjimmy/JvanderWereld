@@ -203,7 +203,7 @@ Displaced discrete cracking model at three different steps
 *Comparison of all three analysis*\
 The figure below shows the behaviour of all three analyses plus linear static analysis together with the experimental results, where SM_C is the smeared cracking model with characteristic properties, SC_M is smeared cracking with mean material properties, DC_M is discrete cracking with mean properties and LS is a linear static analysis.
 
-```{figure} ../../figures/MSc/CIEM5210-1_Comparison_Results.jpg
+```{figure} ../../figures/MSc/CIEM5210-1_Comparison.png
 ---
 width: 500px
 align: center
