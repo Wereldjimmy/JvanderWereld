@@ -17,7 +17,7 @@ The project started with doing a multi-criteria decision analysis to analyse thr
 From the MCDA software the original design (Bridge without centre pillar) emerged as the best option due to minimal disruption and optimal cost-effectiveness. Since we got the best design, we can optimize it using mathematical models.
 
 **Design optimization**\
-First, the design variables are determined. The first variable is the bridge span (x1) and the second variable is the bridge width (x2). The bridge span directly influences the traffic flow capacity of the highway underneath the bridge, while the bridge width influences the train frequency. Both the variables influence the material use, which in turn influence the cost and $CO_2$ emissions. The problem statement is depicted in the figure {numref}` below <ps>`.
+First, the design variables are determined. The first variable is the bridge span (x1) and the second variable is the bridge width (x2). The bridge span directly influences the traffic flow capacity of the highway underneath the bridge, while the bridge width influences the train frequency. Both the variables influence the material use, which in turn influence the cost and $CO_2$ emissions. The problem statement is depicted in the figure.
 
 ```{figure} ../../figures/MSc/CIEM0000_Flowchart.jpg
 ---
@@ -27,7 +27,7 @@ align: center
 ---
 Problem statement visualisation
 ```
-
+{numref}` below <ps>`
 The next step was to create linear objective functions that rate the performance of a design and constraints. This resulted in a solution space which is depicted in the figure below.
 
 ```{figure} ../../figures/MSc/CIEM0000_Solution_Space.jpg
