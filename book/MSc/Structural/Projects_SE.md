@@ -159,7 +159,7 @@ A finite element model was made first in DIANA, which can be seen in the figure 
 
 ```{figure} ../../figures/MSc/CIEM5210-1_Models.jpg
 ---
-width: 350px
+width: 500px
 align: center
 ---
 Finite element model for smeared cracking (left) and discrete cracking (right)
@@ -184,7 +184,7 @@ After setting up the finite element model, the three analyses were done. First t
 
 ```{figure} ../../figures/MSc/CIEM5210-1_DC_Results.jpg
 ---
-width: 350px
+width: 600px
 align: center
 ---
 Displaced discrete cracking model at three different steps
@@ -194,7 +194,7 @@ Then, the two smeared cracking model analyses were done. The figure below shows 
 
 ```{figure} ../../figures/MSc/CIEM5210-1_SC_Results.jpg
 ---
-width: 350px
+width: 600px
 align: center
 ---
 Displaced discrete cracking model at three different steps
@@ -205,7 +205,7 @@ The figure below shows the behaviour of all three analyses plus linear static an
 
 ```{figure} ../../figures/MSc/CIEM5210-1_Comparison_Results.jpg
 ---
-width: 350px
+width: 500px
 align: center
 ---
 Displaced discrete cracking model at three different steps
