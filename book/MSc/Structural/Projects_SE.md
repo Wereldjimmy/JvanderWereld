@@ -179,7 +179,7 @@ In each analysis, only physical nonlinearity is considered. This is because of t
 *Incremental solution method*\
 The iterative scheme that is used in all three analyses is full Newton-Raphson. In each analysis, twenty steps are taken for the prescribed displacement, and one step is taken for the pre-compression force. The maximum number of iterations per step was set to 100. The convergence criteria were both energy- and force norm of 0.0001 and 0.01 respectively was used with continuation after divergence.
 
-**Numerical results**\
+**Numerical results**\ 
 After setting up the finite element model, the three analyses were done. First the discrete cracking model analysis was done. The figure below shows the displaced structure at three different load levels. It shows that the discrete crack slowly opens.
 
 ```{figure} ../../figures/MSc/CIEM5210-1_DC_Results.jpg
