@@ -9,9 +9,7 @@ parts:
       - file: BSc/PA_Zandhazenbrug.md
       - file: BSc/Vierhavens_Redevelopment.md
       - file: BSc/Sustainability_Bridge.md
-    chapters:
     - file: MSc/CME/CME.md
-    chapters:
     - file: MSc/Structural/SE.md
       sections:
       - file: MSc/Structural/Optimisation_Zandhazenbrug.md
