@@ -1,4 +1,4 @@
-# Coding the Matrix Method in Python
+# 2. Coding the Matrix Method in Python
 The matrix method is a widely used method to determine forces, displacements, and stresses in engineering structures and is the basis for computational analysis. It is widely applied in analysing beams, trusses, and frames by representing the system as a set of linear equations. As part of the course Slender Structures (CIEM5000) I was tasked to write the matrix method in Python and apply it to a complex structure.
 
 **Writing code**\

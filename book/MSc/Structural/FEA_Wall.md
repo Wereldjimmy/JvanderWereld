@@ -1,4 +1,4 @@
-# Finite Element Analysis of In-Place Behaviour of Masonry Shear Wall
+# 4. Finite Element Analysis of In-Place Behaviour of Masonry Shear Wall
 For the course Computational Modelling of Structures (CIEM5210-1) I was tasked to investigate the in-plane behaviour of an unreinforced masonry wall using Finite Element Analysis (FEA). The study focused on a squat masonry wall (COMP-4) subjected to a horizontal loading and compared the numerical results to analytical and experimental results. This analysis was done to simulate the response of masonry to seismic loading. 
 
 **Analysis Method**\

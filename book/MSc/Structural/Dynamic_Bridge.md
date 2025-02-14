@@ -1,4 +1,4 @@
-# Dynamic Analysis around the static equilibrium of a bridge
+# 3. Dynamic Analysis around the static equilibrium of a bridge
 As a second assignment for the course Slender Structures (CIEM5000) we were tasked to analyse the dynamic response of a bridge around the static (assumed known) equilibrium of the system due to the own weight of the structure. The model of the bridge that was analysed is depicted below.
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_Bridge.png

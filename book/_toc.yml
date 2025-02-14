@@ -5,14 +5,12 @@ parts:
   - caption: Contents
     chapters:
     - file: BSc/BSc.md
-      numbered: true
       sections:
       - file: BSc/PA_Zandhazenbrug.md
       - file: BSc/Vierhavens_Redevelopment.md
       - file: BSc/Sustainability_Bridge.md
     - file: MSc/CME/CME.md
     - file: MSc/Structural/SE.md
-      numbered: true
       sections:
       - file: MSc/Structural/Optimisation_Zandhazenbrug.md
       - file: MSc/Structural/MM_Python.md

@@ -1,4 +1,4 @@
-# Mathematical Optimization of Zandhazenbrug
+# 1. Mathematical Optimization of Zandhazenbrug
 For the course Programme Base (CIEM0000) of the master Structural Engineering, I was part of a team of four students, and we were tasked to optimise a project based on mathematical models considering several stakeholders, objectives, and constraints. We chose to optimise the Zandhazenbrug near Muiderberg. 
 
 **Stakeholder analysis**\
