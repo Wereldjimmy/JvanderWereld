@@ -6,7 +6,9 @@ parts:
     chapters:
     - file: BSc/BSc.md
       sections:
-      - file: BSc/Projects.md
+      - file: BSc/PA_Zandhazenbrug.md
+      - file: BSc/Vierhavens_Redevelopment.md
+      - file: BSc/Sustainability_Bridge.md
     - file: MSc/MSc.md
       sections:
       - file: MSc/CME/CME.md

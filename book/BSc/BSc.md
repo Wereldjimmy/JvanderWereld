@@ -1,1 +1,1 @@
-# BSc
+# BSc Civil Engineering
