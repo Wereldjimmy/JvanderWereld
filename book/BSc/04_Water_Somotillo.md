@@ -2,7 +2,7 @@
 For the course Urban Water and Environmental Engineering (CTB2121) I was tasked with making a design of a water supply and wastewater management system for Somotillo, a small city in Nicaragua.
 
 **Background and Problem Statement**\
-Somotillo is a small city in Nicaragua with a population of 29,0330 and is located near the Rio El Gallo, a river that is already polluted by upstream cities. Since Somotillo struggled with water distribution due to economic and geographical challenges my task was to design a safe water distribution and wastewater system for the city.
+Somotillo is a small city in Nicaragua with a population of 29,030 and is located near the Rio El Gallo, a river that is already polluted by upstream cities. Since Somotillo struggled with water distribution due to economic and geographical challenges my task was to design a safe water distribution and wastewater system for the city.
 
 ```{figure} ../figures/BSc/SWEMT_Somotillo.png
 ---
