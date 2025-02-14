@@ -11,7 +11,6 @@ parts:
       - file: BSc/Sustainability_Bridge.md
     chapters:
     - file: MSc/CME/CME.md
-      sections:
     chapters:
     - file: MSc/Structural/SE.md
       sections:
