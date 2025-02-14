@@ -13,10 +13,10 @@ parts:
     - file: MSc/CME/CME.md
     - file: MSc/Structural/SE.md
       sections:
-      - file: MSc/Structural/Optimisation_Zandhazenbrug.md
-      - file: MSc/Structural/MM_Python.md
-      - file: MSc/Structural/Dynamic_Bridge.md
-      - file: MSc/Structural/FEA_Wall.md
+      - file: MSc/01_Structural/Optimisation_Zandhazenbrug.md
+      - file: MSc/02_Structural/MM_Python.md
+      - file: MSc/03_Structural/Dynamic_Bridge.md
+      - file: MSc/04_Structural/FEA_Wall.md
     - file: TA work/TA_work.md
       sections:
       - file: TA work/TA_Beton_Staal.md
