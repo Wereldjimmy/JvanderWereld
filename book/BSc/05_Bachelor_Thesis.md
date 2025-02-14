@@ -1,5 +1,5 @@
 # 5. Bachelor Thesis 3D Printed Vascular Self Healing Concrete
-Throughout my thesis I investigated the impact of printing direction on the porosity and flexural strength of 3D-printed vascular self-healing concrete. The research contributes to improving durability and self-healing capabilities in concrete structures. My thesis can be downloaded {download}`here <../Documents/BEP_3D_printed_vascular_self_healing_concrete_JvanderWereld.pdf>`
+Throughout my thesis I investigated the impact of printing direction on the porosity and flexural strength of 3D-printed vascular self-healing concrete. The research contributes to improving durability and self-healing capabilities in concrete structures. My thesis can be downloaded {download}`here. <../Documents/BEP_3D_printed_vascular_self_healing_concrete_JvanderWereld.pdf>`
 
 **Background and Problem Statement**\
 Concrete is prone to cracking, which in turn leads to reinforcement corrosion and structural failure. To mitigate this, new technologies like self-healing concrete can be used. The self-healing concrete researched throughout my thesis used a vascular system (similar to blood vessels in nature) to transport healing agents that repair cracks and combines this with 3D-printing.
