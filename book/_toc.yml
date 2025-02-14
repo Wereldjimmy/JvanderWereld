@@ -10,6 +10,7 @@ parts:
       - file: BSc/02_Vierhavens_Redevelopment.md
       - file: BSc/03_Sustainability_Bridge.md
       - file: BSc/04_Water_Somotillo.md
+      - file: BSc/05_Bachelor_Thesis.md
     - file: MSc/CME/CME.md
     - file: MSc/Structural/SE.md
       sections:
