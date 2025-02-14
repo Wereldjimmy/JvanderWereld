@@ -16,5 +16,8 @@ parts:
       - file: MSc/Structural/MM_Python.md
       - file: MSc/Structural/Dynamic_Bridge.md
       - file: MSc/Structural/FEA_Wall.md
-    - file: TA work/TA work.md
+    - file: TA work/TA_work.md
+      sections:
+      - file: TA work/TA_Beton_Staal.md
+      - file: TA work/TA_Programming.md
     - file: credits.md
