@@ -1,1 +1,1 @@
-# Structural Engineering
+# MSc Structural Engineering

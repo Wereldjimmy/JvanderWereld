@@ -9,12 +9,14 @@ parts:
       - file: BSc/PA_Zandhazenbrug.md
       - file: BSc/Vierhavens_Redevelopment.md
       - file: BSc/Sustainability_Bridge.md
-    - file: MSc/MSc.md
+    chapters:
+    - file: MSc/CME/CME.md
       sections:
-      - file: MSc/CME/CME.md
-        sections:
-        - file: MSc/CME/Projects_CME.md
-      - file: MSc/Structural/SE.md
-        sections:
-        - file: MSc/Structural/Projects_SE.md
+    chapters:
+    - file: MSc/Structural/SE.md
+      sections:
+      - file: MSc/Structural/Optimisation_Zandhazenbrug.md
+      - file: MSc/Structural/MM_Pythoon.md
+      - file: MSc/Structural/Dynamic_Bridge.md
+      - file: MSc/Structural/FEA_Wall.md
     - file: credits.md
