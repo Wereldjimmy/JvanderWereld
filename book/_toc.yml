@@ -6,9 +6,10 @@ parts:
     chapters:
     - file: BSc/BSc.md
       sections:
-      - file: BSc/PA_Zandhazenbrug.md
-      - file: BSc/Vierhavens_Redevelopment.md
-      - file: BSc/Sustainability_Bridge.md
+      - file: BSc/01_PA_Zandhazenbrug.md
+      - file: BSc/02_Vierhavens_Redevelopment.md
+      - file: BSc/03_Sustainability_Bridge.md
+      - file: BSc/04_Water_Somotillo.md
     - file: MSc/CME/CME.md
     - file: MSc/Structural/SE.md
       sections:
