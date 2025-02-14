@@ -1,4 +1,4 @@
-# Project Analysis Zandhazenbrug
+# 1. Project Analysis Zandhazenbrug
 
 The first project I did at the Technical University Delft was a project analysis of the Zandhazenbrug as part of the course Introduction to Civil Engineering (CTB1120-14). This is a railway bridge near Muiderberg that needed to be redesigned after the A1 highway was widened. The bridge was designed to improve traffic flow and reduce congestion.
 

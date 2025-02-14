@@ -1,4 +1,4 @@
-# Sustainability of a Bridge
+# 3. Sustainability of a Bridge
 As part of the course Construction Materials and Sustainability (CTB1320) I analysed a bridge in Roelofarendsveen by calculating the Environmental Cost Indicator (MKI) value. This approach is used in the Netherlands to quantify the environmental impact of civil structures. First a 3D model was made in the software Tekla from which a quantity statement was gathered that contained the exact weight of materials used in the bridge. 
 
 ```{figure} ../figures/BSc/CMS_Bridge.png

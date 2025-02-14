@@ -37,9 +37,6 @@ sphinx:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
       }
-parse:
-  numbered: true
-  renumbering: true  # Ensures numbering resets per chapter
 
   extra_extensions:
     - sphinx.ext.imgconverter

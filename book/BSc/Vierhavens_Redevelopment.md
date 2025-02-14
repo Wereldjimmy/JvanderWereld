@@ -1,4 +1,4 @@
-# Vierhaven Redevelopment
+# 2. Vierhaven Redevelopment
 For my second project I was part of a team of ten students tasked with making a redevelopment plan for the Vierhavens area in Rotterdam as part of the course Integrated Design and Management (CTB1220-14). This project included several aspects of real life planning, such as stakeholder analysis, cost analysis, and the creation of 3D models using BIM software.
 
 **Background and Problem statement**\
