@@ -11,7 +11,7 @@ This online assignment was made in the software called Ans, which automatically 
 **Structure**\
 To combine all the several learning objectives of this course an overall structure was chosen. The design of the structure can be found in the figure below.
 
-```{figure} ../figures/TA work/BS_Structure.png
+```{figure} ../figures/TA_work/BS_Structure.png
 ---
 width: 700px
 align: center
