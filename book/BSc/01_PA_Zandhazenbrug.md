@@ -11,7 +11,7 @@ Zandhazenbrug (Photo from Hochtief)
 ```
 
 **Project Statement**\
-Increasing traffic between Almere and Schiphol caused frequent congestion at the Muiderberg interchange. The A1 was widened from 2x3 to 2x5 lanes, making the existing railway bridge insufficient. Rijkswaterstaat decided to construct a new railway bridge without intermediate supports to maintain flexibility.
+Increasing traffic between Almere and Schiphol caused frequent congestion at the Muiderberg interchange. The A1 was widened from 2x3 to 2x5 lanes, making the existing railway bridge insufficient. Rijkswaterstaat decided to construct a new railway bridge without intermediate support to maintain flexibility.
 
 **Technology and Design**
 - The bridge features a steel frame made of **S460 steel**, ensuring strength and weight reduction.

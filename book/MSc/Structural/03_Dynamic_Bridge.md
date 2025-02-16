@@ -34,7 +34,7 @@ First six modal shapes of the bridge
 ```
 
 **Steady-state response**\
-The next step was to compute the steady-state response of the structure subjected to both vehicle and seismic loads. This was done using the dynamic stiffness matrix method (DSM). Since the structure is subject to two different types of loads with both different frequencies, two different steady-state responses need to be analysed. Since the system is linear both of these responses can be added to get the full response of the structure. The total real part of the bending moments of the bridge deck for the steady-state response are given below.
+The next step was to compute the steady-state response of the structure subjected to both vehicle and seismic loads. This was done using the dynamic stiffness matrix method (DSM). Since the structure is subject to two different types of loads with different frequencies, two different steady-state responses need to be analysed. Since the system is linear both of these responses can be added to get the full response of the structure. The total real part of the bending moments of the bridge deck for the steady-state response are given below.
 
 ```{figure} ../../figures/MSc/CIEM5000_A2_SSR.png
 ---
@@ -45,7 +45,7 @@ Steady-state response of the bridge deck
 ```
 
 **Time domain response**\
-The last step of this analysis included the computation of the time domain response of the structure subjected to both vehicle and seismic loads and finding the position and value of the maximum stress in the pylon. To obtain the time domain response the Fourier transform is used. First the orthogonality relation is used to calculate the complex modal amplitudes per frequency. These amplitudes are then used to calculate the response per frequency by matrix multiplication with the normalised modes. Then the time domain response is computed by taking the inverse Fourier transform of the frequency domain. The time domain responses are the excitations in longitudinal and transversal direction of the pylon. The moment and normal forces are then obtained by numerical differentiation of the time domain responses multiplying with $-EI_p$ and $EA_p$ respectively. The stresses are then computed by using the following two formulas:
+The last step of this analysis included the computation of the time domain response of the structure subjected to both vehicle and seismic loads and finding the position and value of the maximum stress in the pylon. To obtain the time domain response the Fourier transform is used. First, the orthogonality relation is used to calculate the complex modal amplitudes per frequency. These amplitudes are then used to calculate the response per frequency by matrix multiplication with the normalised modes. Then the time domain response is computed by taking the inverse Fourier transform of the frequency domain. The time domain responses are the excitations in the longitudinal and transversal direction of the pylon. The moment and normal forces are then obtained by numerical differentiation of the time domain responses multiplying with $-EI_p$ and $EA_p$ respectively. The stresses are then computed by using the following two formulas:
 
 $$\sigma = \frac{M \cdot z}{I} \quad \mathrm{and} \quad \sigma = \frac{N}{A}$$
 

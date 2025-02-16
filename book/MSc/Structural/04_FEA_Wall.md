@@ -2,7 +2,7 @@
 For the course Computational Modelling of Structures (CIEM5210-1) I was tasked to investigate the in-plane behaviour of an unreinforced masonry wall using Finite Element Analysis (FEA). The study focused on a squat masonry wall (COMP-4) subjected to a horizontal loading and compared the numerical results to analytical and experimental results. This analysis was done to simulate the response of masonry to seismic loading. 
 
 **Analysis Method**\
-A finite element model was made first in DIANA, which can be seen in the figure below. Two models are made, on for smeared cracking (left) and one for discrete cracking (right). The elements of the wall are quadratic plane-stress sheet elements, meaning that each wall element has eight nodes and a 2x2 integration is used. Each wall node then has two degrees of freedom, $u_x$ and $u_y$. 
+A finite element model was made first in DIANA, which can be seen in the figure below. Two models are made, one for smeared cracking (left) and one for discrete cracking (right). The elements of the wall are quadratic plane-stress sheet elements, meaning that each wall element has eight nodes and a 2x2 integration is used. Each wall node then has two degrees of freedom, $u_x$ and $u_y$. 
 
 ```{figure} ../../figures/MSc/CIEM5210-1_Models.png
 ---
@@ -27,7 +27,7 @@ In each analysis, only physical nonlinearity is considered. This is because of t
 The iterative scheme that is used in all three analyses is full Newton-Raphson. In each analysis, twenty steps are taken for the prescribed displacement, and one step is taken for the pre-compression force. The maximum number of iterations per step was set to 100. The convergence criteria were both energy- and force norm of 0.0001 and 0.01 respectively was used with continuation after divergence.
 
 **Numerical results**\ 
-After setting up the finite element model, the three analyses were done. First the discrete cracking model analysis was done. The figure below shows the displaced structure at three different load levels. It shows that the discrete crack slowly opens.
+After setting up the finite element model, the three analyses were done. First, the discrete cracking model analysis was done. The figure below shows the displaced structure at three different load levels. It shows that the discrete crack slowly opens.
 
 ```{figure} ../../figures/MSc/CIEM5210-1_DC_Results.png
 ---

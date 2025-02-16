@@ -12,7 +12,7 @@ align: center
 Structure that is analysed using the Matrix Method
 ```
 
-Object Orientated Programming was used to write the code and make it easily applicable to a lot of structures. The code can be divided into three separate parts:
+Object-orientated programming was used to write the code and make it easily applicable to a lot of structures. The code can be divided into three separate parts:
 
 1. Node class
 2. Element class
@@ -20,7 +20,7 @@ Object Orientated Programming was used to write the code and make it easily appl
 
 The **Node class** was used to store node information and keep track of the total number of Degrees of Freedom (DOFs) of the problem. 
 
-The **Element class** kept track of each element in the model, including cross-section properties, element orientation, and the nodes that make up each element. The element class was responsible for providing the element stiffness matrix in the global coordinate system  and postprocessing element-level fields. The class described an element combining extension and Euler-Bernoulli or Timoshenko bending and can output displacements and bending moments.
+The **Element class** kept track of each element in the model, including cross-section properties, element orientation, and the nodes that make up each element. The element class was responsible for providing the element stiffness matrix in the global coordinate system and postprocessing element-level fields. The class described an element combining extension and Euler-Bernoulli or Timoshenko bending and can output displacements and bending moments.
 
 At last, the **Constrainer class** represents a constrainer for fixing degrees of freedom in a structural analysis. This class is able to fix a DOF of a node, fix the displacement of a node, and output the support reaction forces of the model.
 

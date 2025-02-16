@@ -25,7 +25,7 @@ The structure includes concrete and steel beams, and concrete and steel columns.
 The assignment consisted of four parts, each dedicated to specific topics of the course.
 
 *Part 1: Safety*\
-The assignment started off with a part called ‘Safety’, in this part, students had to calculate the self-weight of several elements with which forces in the structure were calculated. In addition to the permanent load on the structure, variable load was considered including snow loading and wind loading.
+The assignment started with a part called ‘Safety’. In this part, students had to calculate the self-weight of several elements with which forces in the structure were calculated. In addition to the permanent load on the structure, variable load was considered including snow loading and wind loading.
 
 *Part 2: Steel and concrete beam*\
 The second part of the assignment consisted of assessing the structural integrity of the steel and concrete beams in the structure. For the concrete beam, this also included calculations on the reinforcement and crack width according to the Eurocodes.
