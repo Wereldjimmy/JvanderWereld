@@ -9,7 +9,7 @@ During my second year, there was more space for students to come to campus and w
 width: 600px
 align: center
 ---
-Group picture of study tour'22 at University of British Columbia
+Group picture of study tour '22 at University of British Columbia
 ```
 
 ```{figure} ../figures/BSc/IR22_San_Francisco.jpg
@@ -17,7 +17,7 @@ Group picture of study tour'22 at University of British Columbia
 width: 400px
 align: center
 ---
-Group picture of study tour'22 at Golden Gate bridge
+Group picture of study tour '22 at Golden Gate bridge
 ```
 
 My third year started with a minor of my choice. I chose the minor Project Management: from Nano to Mega, during which I started to develop managerial skills and interests. During this minor, there was a project in which I worked with students from other faculties to design a new campus building which included student housing, lecture halls, and study spaces. After completing this minor, I did five courses, from which two I had to choose myself. I focused on mechanics and concrete structures. In the last quarter of my bachelor's degree, I did my bachelor's thesis on the topic of self-healing 3D-printed concrete. My bachelor thesis was awarded with an 8.5 which concluded my cum laude graduation.
