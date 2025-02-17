@@ -4,7 +4,7 @@ I started my bachelor’s degree in Civil Engineering at the Technical Universit
 
 During my second year, there was more space for students to come to campus and work with other students. This was good since I did not meet a lot of students at that time apart from my mentor group. Throughout the year we started going to campus more and more, until the point we were finally back to normal. During the summer of this year, I even attended a study tour to Canada and the United States in which we visited many companies, projects and universities. During this tour, I developed an interest in doing a double master’s degree and decided to work hard for this.
 
-```{figure} ../figures/BSc/IR22_Vancouver.png
+```{figure} ../figures/BSc/IR22_Vancouver.jpg
 ---
 width: 600px
 align: center
@@ -12,7 +12,7 @@ align: center
 Group picture of study tour'22 at University of British Columbia
 ```
 
-```{figure} ../figures/BSc/IR22_San_Francisco.png
+```{figure} ../figures/BSc/IR22_San_Francisco.jpg
 ---
 width: 400px
 align: center

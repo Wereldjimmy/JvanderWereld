@@ -11,13 +11,13 @@ parts:
       - file: BSc/03_Sustainability_Bridge.md
       - file: BSc/04_Water_Somotillo.md
       - file: BSc/05_Bachelor_Thesis.md
-    - file: MSc/CME/CME.md
     - file: MSc/Structural/SE.md
       sections:
       - file: MSc/Structural/01_Optimisation_Zandhazenbrug.md
       - file: MSc/Structural/02_MM_Python.md
       - file: MSc/Structural/03_Dynamic_Bridge.md
       - file: MSc/Structural/04_FEA_Wall.md
+    - file: MSc/CME/CME.md
     - file: TA work/TA_work.md
       sections:
       - file: TA work/TA_Beton_Staal.md
