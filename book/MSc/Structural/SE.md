@@ -6,7 +6,7 @@ As said above, I attended courses tied to the Structural Engineering degree duri
 
 In the summer of my first year of the master’s degree, I also attended a study tour to South Korea with the study association U-BASE of Structural Engineering. During this trip, I was surrounded by 24 other students and two lecturers while visiting Seoul, Busan, and Incheon. This trip was insightful and showed me a completely different culture. During this trip, we visited the University of Seoul, companies, and went to various cultural areas in the cities we visited. I was fortunate to be present at the trip and will never forget the experience.
 
-```{figure} ../figures/MSc/ST24_Seoul_CV.jpg
+```{figure} ../../figures/MSc/ST24_Seoul_CV.jpeg
 ---
 width: 600px
 align: center
@@ -14,7 +14,7 @@ align: center
 Group picture of study tour'24 during visit of University of Seoul
 ```
 
-```{figure} ../figures/MSc/ST24_Seoul_Market.jpg
+```{figure} ../../figures/MSc/ST24_Seoul_Market.jpg
 ---
 width: 600px
 align: center
