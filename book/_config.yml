@@ -12,12 +12,9 @@ html:
 
 sphinx:
   extra_extensions:
-  - sphinx_inline_tabs
-  - sphinx.ext.imgconverter
   - download_link_replacer
   - jupyterbook_patches
   - teachbooks_sphinx_grasple
-  - sphinx_image_inverter
   - sphinx_exercise
   - sphinx_proof
   - sphinx_named_colors
