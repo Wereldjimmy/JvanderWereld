@@ -15,7 +15,6 @@ sphinx:
   - download_link_replacer
   - jupyterbook_patches
   - sphinx_exercise
-  - sphinx_named_colors
   - sphinx.ext.extlinks
   config:
     html_js_files:
