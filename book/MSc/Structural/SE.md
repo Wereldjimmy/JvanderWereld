@@ -21,3 +21,5 @@ align: center
 ---
 Group picture of study tour'24 at food market
 ```
+
+The next sections show you a selection of projects I did during the first year of my master’s degree.
