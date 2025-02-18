@@ -18,7 +18,7 @@ Mapping these stakeholders showed us that conflicts may arise between them. For 
 **Strategic Asset Management Plan for Wind Parks**\
 A Strategic Asset Management Plan (SAMP) was developed for the wind parks of Eneco. This includes maintenance optimisation by making use of the 3C concept (Centralize, Cluster, Calculate). This consolidates maintenance activities reducing downtime and costs. 
 
-```{figure} ../../figures/MSc/CME_3C_Concept.png
+```{figure} ../../figures/MSc/CME4300_3C_Concept.png
 ---
 width: 600px
 align: center
@@ -28,7 +28,7 @@ Maintenance activity frequency plot after applying 3C Concept
 
 To address the financial feasibility of this plan a Net Present Value (NPV) calculation has been done. The results of that can be seen in the figure below.
 
-```{figure} ../../figures/MSc/CME_Financial_Analysis.png
+```{figure} ../../figures/MSc/CME4300_Financial_Analysis.png
 ---
 width: 600px
 align: center
@@ -39,7 +39,7 @@ Left: Nominal costs at 6-month interval. Right: NPV of Windmill maintenance at r
 **Systems Engineering for Wind Parks**\
 After the SAMP, the Systems Engineering of a wind park was addressed. This started with the development of a systems and functional breakdown structure of a windmill. The system breakdown structure can be seen in the figure below.
 
-```{figure} ../../figures/MSc/CME_SBS.png
+```{figure} ../../figures/MSc/CME4300_SBS.png
 ---
 width: 600px
 align: center
