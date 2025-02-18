@@ -18,6 +18,8 @@ parts:
       - file: MSc/Structural/03_Dynamic_Bridge.md
       - file: MSc/Structural/04_FEA_Wall.md
     - file: MSc/CME/CME.md
+      sections:
+      - file: MSc/CME/01_Asset_Management_Eneco.md
     - file: TA work/TA_work.md
       sections:
       - file: TA work/TA_Beton_Staal.md
