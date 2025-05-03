@@ -21,6 +21,7 @@ parts:
       sections:
       - file: MSc/CME/01_Asset_Management_Eneco.md
       - file: MSc/CME/02_Engineering_Systems_Optimisation.md
+      - file: MSc/CME/03_Information_Systems.md
     - file: TA work/TA_work.md
       sections:
       - file: TA work/TA_Beton_Staal.md
