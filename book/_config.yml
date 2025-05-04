@@ -9,6 +9,9 @@ only_build_toc_files: true
 html:
   favicon : "figures/Icon.ico"
   baseurl :  "https://teachbooks.io/" #Replace this with your own URL
+  analytics:
+    google_analytics_id: "G-6NRXZBN5HX" # Replace with your own Google Analytics ID
+    google_analytics_enabled: true # Set to false to disable Google Analytics
 
 sphinx:
   extra_extensions:
